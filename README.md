@@ -273,7 +273,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Support
 
 - Website: [qoery.com](https://qoery.com)
-- Documentation: [docs.qoery.com](https://docs.qoery.com)
+- Documentation: [qoery.com/docs](https://qoery.com/docs/sdks/python/overview)
 - Issues: [GitHub Issues](https://github.com/realfishsam/qoery-py/issues)
 
 ---
