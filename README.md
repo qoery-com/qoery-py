@@ -7,6 +7,9 @@ Access real-time and historical DeFi data from Uniswap and other DEXs with the m
 [![Python Version](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+## Docs
+https://qoery.com/docs/sdks/python
+
 ## Features
 
 - **Simple & Intuitive**: Clean, Pythonic API that feels natural
