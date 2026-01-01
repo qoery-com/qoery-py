@@ -1,3 +1,5 @@
+<a href="https://www.producthunt.com/products/qoery-python-sdk?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-qoery-python-sdk" target="_blank" rel="noopener noreferrer"><img alt="Qoery Python SDK - 50% cheaper crypto data. Now in Python. | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1056631&amp;theme=light&amp;t=1767263265752"></a>
+
 # qoery-py
 
 **The Official Python SDK for Qoery - The Cheapest DeFi Data API**
